@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.map-overlay {
+    position: absolute;
+    background-color: white;
+    right: 80px;
+    top: 180px;
+    width: 330px;
+    border: 15px solid #202a45;
+    padding: 40px;
+    margin: 55px;
+}
+
+.list-unstyled {
+    color: black;
+    margin-left: 0;
+    padding-left: 0;
+}
